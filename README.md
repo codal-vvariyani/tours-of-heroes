@@ -26,19 +26,19 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
 
-## dashboard Component
+## dashboard component
 
 Shows the top 4 heroes.
 
-## hero-detail Component
+## hero-detail component
 
 Shows the detail of the selected hero either from dashboard or list.
 
-## heroes Component
+## heroes component
 
 Shows the list of all the heroes if any. Here the data displayed in the list is fetched using heroService from the mock-heroes.ts file. mock-heroes.ts file contains an array of heroes.
 
-## messages Compnent
+## messages compnent
 
 Shows the messages if present. The data displayed on the messages compnent is fetched using messageSevice.
 
